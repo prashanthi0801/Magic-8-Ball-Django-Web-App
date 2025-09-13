@@ -1,0 +1,55 @@
+Question: am i going to win?
+Response: {'question': 'am i going to win?', 'answer': 'You may rely on it', 'type': 'positive'}
+
+Question: is it going to rain?
+Response: {'question': 'is it going to rain?', 'answer': 'Yes, definitely', 'type': 'positive'}
+
+Question: is my sister mad?
+Response: {'question': 'is my sister mad?', 'answer': 'Yes, definitely', 'type': 'positive'}
+
+Question: does she have a brain?
+Response: {'question': 'does she have a brain?', 'answer': 'Very doubtful', 'type': 'negative'}
+
+Question: does she have a brain
+Response: {'question': 'does she have a brain', 'answer': 'Reply hazy, try again', 'type': 'neutral'}
+
+Question: does she have a brain
+Response: {'question': 'does she have a brain', 'answer': 'You may rely on it', 'type': 'positive'}
+
+Question: what
+Response: {'question': 'what', 'answer': 'Without a doubt', 'type': 'positive'}
+
+Question: does swami love me
+Response: {'question': 'does swami love me', 'answer': 'Don’t count on it', 'type': 'negative'}
+
+Question: is my sister mad?
+Response: {'question': 'is my sister mad?', 'answer': 'Don’t count on it', 'type': 'negative'}
+
+Question: is my sister mad?
+Response: {'question': 'is my sister mad?', 'answer': 'You may rely on it', 'type': 'positive'}
+
+Question: does swami loves shireesha
+Response: {'question': 'does swami loves shireesha', 'answer': 'My reply is no', 'type': 'negative'}
+
+Question: does swami loves prashanthi
+Response: {'question': 'does swami loves prashanthi', 'answer': 'You may rely on it', 'type': 'positive'}
+
+Question: does swami loves pranitha
+Response: {'question': 'does swami loves pranitha', 'answer': 'Reply hazy, try again', 'type': 'neutral'}
+
+Question: does swami loves upender
+Response: {'question': 'does swami loves upender', 'answer': 'Yes, definitely', 'type': 'positive'}
+
+Question: please swami love me
+Response: {'question': 'please swami love me', 'answer': 'Very doubtful', 'type': 'negative'}
+
+Question: does swami love shireesha 
+Response: {'question': 'does swami love shireesha ', 'answer': 'Reply hazy, try again', 'type': 'neutral'}
+
+Question: does swami loves prashanthi
+Response: {'question': 'does swami loves prashanthi', 'answer': 'My reply is no', 'type': 'negative'}
+
+Question: does swami loves prashanthi
+Response: {'question': 'does swami loves prashanthi', 'answer': 'Very doubtful', 'type': 'negative'}
+
+
